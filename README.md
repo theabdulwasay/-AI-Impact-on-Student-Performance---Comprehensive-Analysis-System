@@ -1,3 +1,15 @@
+<img width="5188" height="3923" alt="12_comprehensive_dashboard" src="https://github.com/user-attachments/assets/438111d6-5abc-4657-9256-23b9185d1166" />
+<img width="4139" height="2036" alt="11_grade_level_performance" src="https://github.com/user-attachments/assets/6cc0e211-3d18-49ea-96df-9311826ad6d6" />
+<img width="3530" height="2033" alt="10_gender_performance" src="https://github.com/user-attachments/assets/5b9be740-cb3e-4291-b252-000f52e8d10b" />
+<img width="3257" height="2945" alt="09_correlation_heatmap_ai_users" src="https://github.com/user-attachments/assets/fcec13b3-9c67-4da0-a027-31f18d88d563" />
+<img width="3539" height="2333" alt="08_attendance_vs_score" src="https://github.com/user-attachments/assets/c002d3ed-8bd9-49ab-a0eb-843c891c473f" />
+<img width="3539" height="2033" alt="07_ai_dependency_distribution" src="https://github.com/user-attachments/assets/36944c02-7a27-4931-9f29-f06d7b314378" />
+<img width="3539" height="2333" alt="06_study_hours_vs_score" src="https://github.com/user-attachments/assets/14638b6e-16ad-4d2c-8092-23238c306d81" />
+<img width="3540" height="2033" alt="05_performance_distribution" src="https://github.com/user-attachments/assets/e86a4a89-54d4-4cbb-8b27-7861256d3b44" />
+<img width="2203" height="2341" alt="04_ai_usage_purpose" src="https://github.com/user-attachments/assets/98bf1457-c37f-43fa-a987-647f11a54414" />
+<img width="4139" height="2035" alt="03_ai_tools_popularity" src="https://github.com/user-attachments/assets/5dd2c7c7-d187-43e0-8f95-d98c4af3a7c6" />
+<img width="3539" height="2035" alt="02_final_score_ai_comparison" src="https://github.com/user-attachments/assets/6cffb550-b1e9-4649-befd-a7b12e88ca7a" />
+<img width="2086" height="1741" alt="01_ai_usage_distribution" src="https://github.com/user-attachments/assets/4cbc6cfe-b337-41ad-a3b0-1ce4ad8c8292" />
 # 🤖 AI Impact on Student Performance - Comprehensive Analysis System
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
