@@ -80,7 +80,19 @@ This project analyzes a dataset of 8,000 students to understand:
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/abdulwasay/ai-impact-student-performance.git
+git clone https://github.com/the<img width="5188" height="3923" alt="12_comprehensive_dashboard" src="https://github.com/user-attachments/assets/63ac2779-460e-4fc9-9f74-c144c5bf6418" />
+<img width="4139" height="2036" alt="11_grade_level_performance" src="https://github.com/user-attachments/assets/89fb595a-0941-4617-9295-1e70a4101032" />
+<img width="3530" height="2033" alt="10_gender_performance" src="https://github.com/user-attachments/assets/07c8f41c-e1da-460f-8c90-4842d48c062b" />
+<img width="3257" height="2945" alt="09_correlation_heatmap_ai_users" src="https://github.com/user-attachments/assets/aa828a72-adec-448d-b8bc-0c8b67643270" />
+<img width="3539" height="2333" alt="08_attendance_vs_score" src="https://github.com/user-attachments/assets/8c0df641-ef99-4905-8175-ed96a6f7a554" />
+<img width="3539" height="2033" alt="07_ai_dependency_distribution" src="https://github.com/user-attachments/assets/9f54ceb2-10b8-458f-98b8-5d35ba8c2b72" />
+<img width="3539" height="2333" alt="06_study_hours_vs_score" src="https://github.com/user-attachments/assets/a6c97f80-ab03-453b-a36e-6428e878a319" />
+<img width="3540" height="2033" alt="05_performance_distribution" src="https://github.com/user-attachments/assets/d21eb3f1-5710-44c2-a7c6-59c1f7d2aedc" />
+<img width="2203" height="2341" alt="04_ai_usage_purpose" src="https://github.com/user-attachments/assets/645b91bc-2596-4be7-9a59-658f1f83dc32" />
+<img width="4139" height="2035" alt="03_ai_tools_popularity" src="https://github.com/user-attachments/assets/32875fac-b304-47bb-b35c-4c837697ba40" />
+<img width="3539" height="2035" alt="02_final_score_ai_comparison" src="https://github.com/user-attachments/assets/9294f439-5df4-4b78-b84d-783a28c38e73" />
+<img width="2086" height="1741" alt="01_ai_usage_distribution" src="https://github.com/user-attachments/assets/1cdfa945-bce7-4950-8e97-563dc5565a38" />
+abdulwasay/ai-impact-student-performance.git
 cd ai-impact-student-performance
 ```
 
@@ -391,10 +403,10 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 **Abdul Wasay**
 - Student ID: FA22-BCS-127
 - Course: Exploratory Data Analysis & Visualization (EDAV)
-- Institution: [Your University Name]
-- Email: abdul.wasay@example.com
-- GitHub: [@abdulwasay](https://github.com/abdulwasay)
-- LinkedIn: [Abdul Wasay](https://linkedin.com/in/abdulwasay)
+- Institution: [COMSATS]
+- Email: abdulwasaymail757@gmail.com
+- GitHub: [@abdulwasay](https://github.com/theabdulwasay)
+- LinkedIn: [Abdul Wasay](https://linkedin.com/in/AbdulWasay)
 
 ---
 
@@ -419,7 +431,7 @@ If you use this analysis in your research, please cite:
   year = {2026},
   publisher = {GitHub},
   journal = {GitHub Repository},
-  howpublished = {\url{https://github.com/abdulwasay/ai-impact-student-performance}}
+  howpublished = {\url{https://github.com/theabdulwasay/ai-impact-student-performance}}
 }
 ```
 
@@ -490,7 +502,7 @@ If you find this project useful, please consider giving it a ⭐ on GitHub!
 
 - **Issues**: [GitHub Issues](https://github.com/abdulwasay/ai-impact-student-performance/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/abdulwasay/ai-impact-student-performance/discussions)
-- **Email**: abdul.wasay@example.com
+- **Email**: abdul.comwasaymalik757@gmail.com
 
 ---
 
